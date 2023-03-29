@@ -10,7 +10,7 @@
 * [Roman Numerals Encoder](src/main/java/net/oleksin/kata/kyu6/romannumeralsencoder/README.md)
 * [Bit Counting](src/main/java/net/oleksin/kata/kyu6/bitcounting/README.md)
 * [Duplicate Encoder](src/main/java/net/oleksin/kata/kyu6/duplicateencoder/README.md)
-* [Simple Encryption #1 - Alternating Split]()
+* [Simple Encryption #1 - Alternating Split](src/main/java/net/oleksin/kata/kyu6/simpleencryptionalternatingsplit/README.md)
 ### [7-kyu](src/main/java/net/oleksin/kata/kyu7) <br>
 * [List Filtering](src/main/java/net/oleksin/kata/kyu7/listfiltering/README.md)
 * [Credit Card Mask](src/main/java/net/oleksin/kata/kyu7/creditcardmask/README.md)
