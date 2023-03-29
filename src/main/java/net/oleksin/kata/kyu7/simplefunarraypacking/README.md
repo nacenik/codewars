@@ -1,4 +1,4 @@
-[Back to main menu](https://github.com/nacenik/codewars/blob/main/README.md)<br>
+### [Back to kyu 7 menu](src/main/java/net/oleksin/kata/kyu7/README.md)<br>
 ### Task
 
 You are given an array of up to four non-negative integers, each less than 256.

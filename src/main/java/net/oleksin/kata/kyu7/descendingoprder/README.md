@@ -1,4 +1,4 @@
-[Back to main menu](https://github.com/nacenik/codewars/blob/main/README.md)<br>
+### [Back to kyu 7 menu](src/main/java/net/oleksin/kata/kyu7/README.md)<br>
 Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 
 Examples:
