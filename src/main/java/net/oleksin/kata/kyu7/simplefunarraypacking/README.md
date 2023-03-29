@@ -1,4 +1,4 @@
-### [Back to kyu 7 menu](../README.md)<br>
+### [Back to kyu 7 menu](..)/<br>
 ### Task
 
 You are given an array of up to four non-negative integers, each less than 256.

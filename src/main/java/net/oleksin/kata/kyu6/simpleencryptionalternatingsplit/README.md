@@ -1,4 +1,4 @@
-### [Back to kyu 6 menu](../README.md)<br>
+### [Back to kyu 6 menu](../)<br>
 Implement a pseudo-encryption algorithm which given a string S and an integer N concatenates all the odd-indexed characters of S with all the even-indexed characters of S, this process should be repeated N times.
 
 Examples:
