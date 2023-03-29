@@ -1,4 +1,4 @@
-### [Back to kyu 6 menu](src/main/java/net/oleksin/kata/kyu6/README.md)<br>
+### [Back to kyu 6 menu](../README.md)<br>
 The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 
 Examples

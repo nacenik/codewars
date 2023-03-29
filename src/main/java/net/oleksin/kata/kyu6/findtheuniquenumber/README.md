@@ -1,4 +1,4 @@
-### [Back to kyu 6 menu](src/main/java/net/oleksin/kata/kyu6/README.md)<br>
+### [Back to kyu 6 menu](../README.md)<br>
 There is an array with some numbers. All numbers are equal except for one. Try to find it!
 
 ```
