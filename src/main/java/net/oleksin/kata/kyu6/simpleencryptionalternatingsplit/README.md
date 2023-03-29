@@ -1,4 +1,4 @@
-[MAIN](https://github.com/nacenik/codewars/blob/main/README.md) <br>
+[Back to main menu](https://github.com/nacenik/codewars/blob/main/README.md)<br>
 Implement a pseudo-encryption algorithm which given a string S and an integer N concatenates all the odd-indexed characters of S with all the even-indexed characters of S, this process should be repeated N times.
 
 Examples:

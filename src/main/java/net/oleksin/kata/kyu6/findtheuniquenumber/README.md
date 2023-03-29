@@ -1,4 +1,4 @@
-[MAIN](https://github.com/nacenik/codewars/blob/main/README.md) <br>
+[Back to main menu](https://github.com/nacenik/codewars/blob/main/README.md)<br>
 There is an array with some numbers. All numbers are equal except for one. Try to find it!
 
 ```

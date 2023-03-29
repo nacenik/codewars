@@ -1,4 +1,4 @@
-[MAIN](https://github.com/nacenik/codewars/blob/main/README.md) <br>
+[Back to main menu](https://github.com/nacenik/codewars/blob/main/README.md)<br>
 ### Task
 
 You are given an array of up to four non-negative integers, each less than 256.
