@@ -1,4 +1,5 @@
 ### [Back to kyu 7 menu](..)/<br>
+### [Tests](../../../../../../../test/java/net/oleksin/kata/kyu7/simplefunarraypacking)
 ### Task
 
 You are given an array of up to four non-negative integers, each less than 256.

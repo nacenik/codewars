@@ -1,0 +1,1 @@
+### [Back to task](../../../../../../../main/java/net/oleksin/kata/kyu7/creditcardmask)

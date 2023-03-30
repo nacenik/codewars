@@ -1,4 +1,5 @@
 ### [Back to kyu 6 menu](../)<br>
+### [Tests](../../../../../../../test/java/net/oleksin/kata/kyu6/findtheuniquenumber)
 There is an array with some numbers. All numbers are equal except for one. Try to find it!
 
 ```
