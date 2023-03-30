@@ -1,6 +1,7 @@
 package net.oleksin.kata.kyu6.countingduplicates;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
 public class CountingDuplicates {
     public static int duplicateCount(String text) {
